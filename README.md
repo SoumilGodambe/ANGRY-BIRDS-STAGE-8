@@ -1,2 +1,1 @@
-# ANGRY-BIRDS-STAGE-8
-AB8
+# AngryBirdsStage7
